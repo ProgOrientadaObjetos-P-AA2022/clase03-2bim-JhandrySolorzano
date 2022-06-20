@@ -10,5 +10,7 @@ package herencia4;
  * @author reroes
  */
 public class Reporte {
+  
+   
    protected String codigo;
 }
